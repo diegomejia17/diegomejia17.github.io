@@ -13,5 +13,5 @@ Se conforma por una serie de Dependencias a la hora de crear un proyecto en Spri
 proveen una serie de servlets que nos ayudan a manejar las peticiones que son generadas en las plantillas de Thymeleaf todo esto
 basado en la arquitectura MVC.
 
-aaa
+
 
