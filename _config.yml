@@ -9,7 +9,7 @@ name: Diego Mejia
 description: Desarrollador Java
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/45589438?v=4
+avatar: "./images/perfil.jpg"
 
 #
 # Flags below are optional
